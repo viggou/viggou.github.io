@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!doctype html>
 <html>
 <head>
@@ -111,3 +112,118 @@
         
    	</body>
 </html>
+=======
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Calculator</title>
+		
+        <!-- Javascript calculator -->
+		<script>
+			function performOperation(operator) {
+				var x = parseInt(document.getElementById('txt1').value);
+				var y = parseInt(document.getElementById('txt2').value);
+				
+				// Operations
+				var result;
+				switch(operator) {
+					case "+":
+						if (x && y == "")
+							result = "Empty";
+						else if (isNaN(x || y))
+							result = "Not a number";
+						else
+							result = x + y;
+						break;
+					case "-":
+						if (x && y == "")
+							result = "Empty";
+						else if (isNaN(x || y))
+							result = "Not a number";
+						else
+							result = x - y;
+						break;
+					case "*":
+						if (x && y == "")
+							result = "Empty";
+						else if (isNaN(x || y))
+							result = "Not a number";
+						else
+							result = x * y;
+						break;
+					case "/":
+						if (x && y == "")
+							result = "Empty";
+						else if (isNaN(x || y))
+							result = "Not a number";
+						else if (y == 0)
+							result = "Error"
+						else
+							result = x / y;
+						break;
+					default:
+						result = 0;
+						break;
+				}
+				
+				document.getElementById('result').value = result;
+			}
+			
+			// Table calculator
+			function printTable(element) {
+				var table = parseInt(element.value);
+				var result2 = document.getElementById('result2');
+				
+				for (i = table; i <= table*10; i += table)
+				result2.innerHTML += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" + i + ", ";
+				
+				result2.innerHTML += "<br>";
+			}
+			
+			// Reload button
+			function reloadAll() {
+				window.location.reload()
+			}
+			
+			function changeColor(element, color) {
+				element.style.color = color;
+			}
+			
+		</script>
+		
+</head>
+
+	<body>
+    	
+    <div style="margin-left:70px;">
+        <h2 style="color:#FF0004">How to use:</h2>
+        <p>Type in the <u>two</u> numbers that you would like calculate, <br>
+	  then press one of the operators to get the result!</p>
+        
+                
+        <!-- Textfields and buttons -->
+      <input type="number" id="txt1" placeholder="1st. Number" autofocus />
+        
+    	<button onClick="performOperation('+')"> + </button>
+    	<button onClick="performOperation('-')"> - </button>
+    	<button onClick="performOperation('*')"> * </button>
+    	<button onClick="performOperation('/')"> / </button>
+        
+    	<input type="number" id="txt2" placeholder="2nd. Number" /> 
+            
+   	  <p> Result: </p>
+    	<input type="text" id="result" placeholder="Don't type here" disabled/>
+    	<div style="margin-left:300px;">
+    	<p>Author: <a href="https://youtube.com/user/yaypixxo" onMouseOver="changeColor(this, 'gold')" onMouseOut="changeColor(this, 'blue')">YaYPIXXO</a><br>
+   	    </p>
+   	    </div>
+      <h2>Table calculator:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button onClick="reloadAll()">Reset All</button></h2>
+        
+      <input type="number" onChange="printTable(this)" placeholder="Example: 10" /> <button onClick="changeColor(this, 'gold')" onMouseOut="changeColor(this, 'black')"> Calculate </button>
+      <p id="result2"></p>
+        </div>
+        
+   	</body>
+</html>
+>>>>>>> origin/master

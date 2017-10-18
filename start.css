@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 div {
 	text-align: center;
 }
@@ -6,4 +7,14 @@ h1 {
 }
 p {
 	background-image: 
+=======
+div {
+	text-align: center;
+}
+h1 {
+	font-family: "Source Sans Pro", sans-serif;
+}
+p {
+	background-image: 
+>>>>>>> origin/master
 }
