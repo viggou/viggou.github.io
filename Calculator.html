@@ -59,6 +59,10 @@
 			function printTable(element) {
 				var table = parseInt(element.value);
 				var result2 = document.getElementById('result2');
+				if (table == 0) {
+					alert("Error")
+					return false;
+				}
 				
 				for (i = table; i <= table*10; i += table)
 				result2.innerHTML += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" + i + ", ";
