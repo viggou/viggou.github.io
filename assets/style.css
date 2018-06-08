@@ -62,12 +62,17 @@ a {
 	color: #FF5719;
 }
 
+#steam:hover {
+	color: #181F27;
+}
+
 #logo {
 	margin-top: 10%;
 }
 
-#ting {
+.ting {
 	margin-top: 50px;
+	color: white;
 }
 
 #bg-img {
