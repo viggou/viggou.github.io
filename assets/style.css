@@ -1,14 +1,14 @@
 /* inspired by and some taken from coolstar.moe / coolstar.org */
 
 body {
-	background: #007180; /* Old browsers */
-	background: -moz-linear-gradient(top,  #007180 0%, #cbddc8 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#007180), color-stop(100%,#cbddc8)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  #007180 0%,#cbddc8 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  #007180 0%,#cbddc8 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  #007180 0%,#cbddc8 100%); /* IE10+ */
-	background: linear-gradient(to bottom,  #007180 0%,#cbddc8 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#007180', endColorstr='#cbddc8',GradientType=0 ); /* IE6-9 */
+	/*background: #007180; /* Old browsers */
+	/*background: -moz-linear-gradient(top,  #007180 0%, #cbddc8 100%); /* FF3.6+ */
+	/*background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#007180), color-stop(100%,#cbddc8)); /* Chrome,Safari4+ */
+	/*background: -webkit-linear-gradient(top,  #007180 0%,#cbddc8 100%); /* Chrome10+,Safari5.1+ */
+	/*background: -o-linear-gradient(top,  #007180 0%,#cbddc8 100%); /* Opera 11.10+ */
+	/*background: -ms-linear-gradient(top,  #007180 0%,#cbddc8 100%); /* IE10+ */
+	/*background: linear-gradient(to bottom,  #007180 0%,#cbddc8 100%); /* W3C */
+	/*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#007180', endColorstr='#cbddc8',GradientType=0 ); /* IE6-9 */
 	overflow: hidden;
 	font-family: "Segoe UI Light", "Ubuntu", "Helvetica Neue Ultralight", "Calibri Light";
 }
@@ -23,28 +23,68 @@ body {
 	top: -7%;
 }
 
+a {
+	text-decoration: none;
+	transition: 0.3s linear;
+	color: white;
+	font-weight: bold;
+}
+
+#twitter:hover {
+	color: #00AAFF;
+}
+
+#youtube:hover {
+	color: #FF0004;
+}
+
+#twitch:hover {
+	color: #9100FF;
+}
+
+#github:hover {
+	color: black;
+}
+
+#osu:hover {
+	color: #FF69B4;
+}
+
+#speedrun:hover {
+	color: #D6BC32;
+}
+
+#discordserver:hover {
+	color: #8181FF;
+}
+
+#soundcloud:hover {
+	color: #FF5719;
+}
+
 #logo {
-	
+	margin-top: 10%;
 }
 
 #ting {
 	margin-top: 50px;
-	width: 20%;
 }
 
 #bg-img {
 	background-size: cover;
-	position: relative;
+	position: absolute;
+	background-repeat: no-repeat;
 	width: 100vw;
 	height: 100vh;
 	margin-top: -8px;
 	margin-left: -8px;
+	background-position: 50% 50%;
 }
 
 .blur {
 	-webkit-filter: blur(5px);
-	-moz-filter: blur(5px);
 	-o-filter: blur(5px);
+	-moz-filter: blur(5px);
 	-ms-filter: blur(5px);
 	filter: blur(5px);
 }

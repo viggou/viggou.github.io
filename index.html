@@ -21,15 +21,18 @@
 	</script>
 </head>
 <body>
-	<div id="bg-img">
-		<div class="blur"></div>
-		<div style="width: 100%; height: 100%;display: table;text-align: center;">
-			<div class="content">
-				<img src="assets/Logo.jpg" id="logo" width="200">
-				<br>
-				<img src="assets/thing.png" id="ting">
-			</div>
+	<div id="bg-img" class="bg-img blur" style="display: none;"></div>
+	<div id="bg-overlay" class="bg-img overlay" style="display: none;"></div>
+	<div style="width: 100%; height: 100%;display: table;text-align: center;">
+		<div class="content">
+			<img src="assets/Logo.jpg" id="logo" width="200">
+			<br>
+			<h1 class="ting">YaYPIXXO</h1>
+			<span>
+				<a href="/twitter/" id="twitter">Twitter</a> | <a href="/youtube/" id="youtube">YouTube</a> | <a href="/twitch/" id="twitch">Twitch</a> | <a href="/github/" id="github">GitHub</a> | <a href="/osu/" id="osu">osu! (and skin)</a> | <a href="/speedrun/" id="speedrun">Speedrun.com</a> | <a href="/soundcloud/" id="soundcloud">SoundCloud</a> | <a href="/discord/" id="discordserver">Discord</a>
+			</span>
 		</div>
+	</div>
 	</div>
 	<script>
 		function switchBG(urlThing) {
@@ -44,6 +47,9 @@
 		}
 		else if (n == 2) {
 			switchBG('assets/bgs/back2.jpg');
+		}
+		else if (n == 3) {
+			switchBG('assets/bgs/back3.png')
 		}
 	</script>
 </body>
