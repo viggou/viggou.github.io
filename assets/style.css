@@ -16,18 +16,23 @@ body {
 .content {
 	margin-top: 175px;
 	position: relative;
-	width: 700px;
-	height: 500px;
 	display: table-cell;
 	vertical-align: middle; 
 	top: -7%;
+	padding-bottom: 100px;
+	transition: 0.1s linear;
+}
+
+.content:hover {
+	background-color: rgba(0, 0, 0, 0.4);
+	border-radius: 5px;
 }
 
 a {
 	text-decoration: none;
-	transition: 0.3s linear;
+	transition: 0.2s linear;
 	color: white;
-	font-weight: bold;
+	font-weight: 700;
 }
 
 #twitter:hover {
@@ -63,7 +68,7 @@ a {
 }
 
 #steam:hover {
-	color: #181F27;
+	color: #112a5c;
 }
 
 #logo {
@@ -95,5 +100,10 @@ a {
 }
 
 .overlay {
-	background-color: rgba(0, 0, 0, 0.3);
+	background-color: rgba(0, 0, 0, 0.3); 
+}
+
+.links img {
+	width: 19px;
+	vertical-align: bottom;
 }
