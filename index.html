@@ -40,7 +40,7 @@
 			document.getElementById("bg-img").style.backgroundImage="url(" + urlThing + ")";
 		}
 
-		var n = Math.floor((Math.random() * 3) + 1);
+		var n = Math.floor((Math.random() * 5) + 1);
 
 		if (n == 1) {
 			switchBG('assets/bgs/back1.jpg');
@@ -50,6 +50,12 @@
 		}
 		else if (n == 3) {
 			switchBG('assets/bgs/back3.png')
+		}
+		else if (n == 4) {
+			switchBG('assets/bgs/back4.jpg')
+		}
+		else if (n == 5) {
+			switchBG('assets/bgs/back5.jpg')
 		}
 	</script>
 </body>
