@@ -1,0 +1,352 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="carbonex.fr" resolutions="1x" timestamp="1532705800603">
+  <folder name="css">
+    <file name="site_global.css" crc="3799009516"/>
+    <file name="master_a-master-fr-copy.css" crc="368392573" ref="briquettes:index:charbon-de-bois:mentions-légales:notre-entreprise:grill-mixx-fr:contact:technologie---innovation:produits-barbecue"/>
+    <file name="master_a-master-en-copy.css" crc="4064105952" ref="our-company:contact-us:technology---innovation:home:bbq--products:grill-mixx-en:charcoal-briquettes:charcoal"/>
+    <file name="briquettes.css" crc="267727391" ref="briquettes"/>
+    <file name="our-company.css" crc="4219327582" ref="our-company"/>
+    <file name="index.css" crc="3834334864" ref="index"/>
+    <file name="charbon-de-bois.css" crc="4110244178" ref="charbon-de-bois"/>
+    <file name="contact-us.css" crc="350919728" ref="contact-us"/>
+    <file name="mentions-l_gales.css" crc="3951363306" ref="mentions-légales"/>
+    <file name="notre-entreprise.css" crc="185479098" ref="notre-entreprise"/>
+    <file name="technology---innovation.css" crc="22905564" ref="technology---innovation"/>
+    <file name="home.css" crc="4042884820" ref="home"/>
+    <file name="grill-mixx-fr.css" crc="4232220562" ref="grill-mixx-fr"/>
+    <file name="bbq--products.css" crc="350645515" ref="bbq--products"/>
+    <file name="grill-mixx-en.css" crc="4005208791" ref="grill-mixx-en"/>
+    <file name="charcoal-briquettes.css" crc="3948526173" ref="charcoal-briquettes"/>
+    <file name="contact.css" crc="339331958" ref="contact"/>
+    <file name="technologie---innovation.css" crc="94219830" ref="technologie---innovation"/>
+    <file name="produits-barbecue.css" crc="349806557" ref="produits-barbecue"/>
+    <file name="charcoal.css" crc="4010244650" ref="charcoal"/>
+  </folder>
+  <folder name="assets">
+    <file name="pefc_off_controle_v_n-2.jpg" crc="354918321" seo="true" mt="1391184451000"/>
+    <file name="carte_cre3.pdf" crc="4255880964" seo="true" mt="1391677818000"/>
+    <file name="rdp-carbonex-docx.pdf" crc="3954730159" seo="true" mt="1391677853000"/>
+    <file name="bioenergie-promotion.fr-carbonex_va_produire_du_charbon_de_bois_et_de_llectricit_cologiquement-2.pdf" crc="395651893" seo="true" mt="1392642119000"/>
+    <file name="20131220_13.pdf" crc="4162162130" seo="true" mt="1392641259000"/>
+    <file name="mercure201_16_17.pdf" crc="3768291513" seo="true" mt="1392888785000"/>
+    <file name="carbo-logo.eps" crc="304374082" seo="true" mt="1394726729000"/>
+    <file name="onf_decouvre_lesinstallations_de_carbonex_accueil_www.lest-eclair.fr.pdf" crc="149252569" seo="true" mt="1392641821000"/>
+    <file name="les_elus_en_visite_chez_les_freres_novateurs_soler-my_www.lest-eclair.fr.pdf" crc="450624570" seo="true" mt="1392641977000"/>
+    <file name="nouvelle-charte-ofg-3.pdf" crc="3932423449" seo="true" mt="1395140540000"/>
+    <file name="web_lma100_nl-29.pdf" crc="3915902156" seo="true" mt="1403682707000"/>
+    <file name="quand-carbonex,-entreprise-éco-responsable-100--française,-touche-du-bois---lorraine-champagne-ardenne---décideurs-en-région.pdf" crc="3784322450" seo="true" mt="1429019499000"/>
+    <file name="l-apcma--le-parlement---mars-2015.pdf" crc="3942922052" seo="true" mt="1431068726000"/>
+    <file name="greenunivers.pdf" crc="334529261" seo="true" mt="1431068156000"/>
+    <file name="carbonex-grand-prix-cdp.pdf" crc="4191980053" seo="true" mt="1435990031000"/>
+    <file name="157_1459331127_an95_corrige.pdf" crc="4164277347" seo="true" mt="1459502942000"/>
+    <file name="philippe-soler-my_carbonex_magazine-decideurs.pdf" crc="290963166" seo="true" mt="1453116515000"/>
+    <file name="2379_001.pdf" crc="97525300" seo="true" mt="1453116515000"/>
+    <file name="communiqué-de-presse-cop-21.pdf" crc="3933451001" seo="true" mt="1453116515000"/>
+    <file name="cpaper.pdf" crc="3992685269" seo="true" mt="1472733073000"/>
+    <file name="carbonex--guide-de-l-entrepreneur-technopolitain.pdf" crc="4020537406" seo="true" mt="1423125545000"/>
+    <file name="r45-carbonex-page-48-49.pdf" crc="327444937" seo="true" mt="1478940230000"/>
+    <file name="2017.03.20-1e-appel-d-offres-biomasse-biogaz.pdf" crc="3759080431" seo="true" mt="1490192422000"/>
+    <file name="lsmag53-016-green-compost-les-privés-relu-(1)-(1).pdf" crc="4011279791" seo="true" mt="1490192797000"/>
+    <file name="lsmag53-016-green_compost-les_privés-relu.pdf" crc="56059558" seo="true" mt="1490193645000"/>
+    <file name="lsmag53-016.pdf" crc="4177839585" seo="true" mt="1490196415000"/>
+    <file name="18042017.pdf" crc="450425095" seo="true" mt="1492594960000"/>
+    <file name="papier-usine-nouvelle-carbonex.pdf" crc="372621119" seo="true" mt="1504782667000"/>
+    <file name="communiqué-de-presse---levée-de-fonds-carbonex-24-07-2018-(fr)-(a-m).pdf" crc="433879759" seo="true" mt="1532700954000"/>
+    <file name="communiqué_de_presse_levée_de_fonds_fr_2018.pdf" crc="137724527" seo="true" mt="1532699885000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:notre-entreprise:produits-barbecue:contact:technologie---innovation:briquettes:charbon-de-bois:mentions-légales:home:bbq--products:charcoal-briquettes:charcoal:our-company:contact-us:technology---innovation:grill-mixx-fr:grill-mixx-en"/>
+    <file name="museutils.js" crc="340535759" ref="index:notre-entreprise:produits-barbecue:contact:technologie---innovation:briquettes:charbon-de-bois:mentions-légales:home:bbq--products:charcoal-briquettes:charcoal:our-company:contact-us:technology---innovation:grill-mixx-fr:grill-mixx-en"/>
+    <file name="whatinput.js" crc="86476730" ref="index:notre-entreprise:produits-barbecue:contact:technologie---innovation:briquettes:charbon-de-bois:mentions-légales:home:bbq--products:charcoal-briquettes:charcoal:our-company:contact-us:technology---innovation:grill-mixx-fr:grill-mixx-en"/>
+    <file name="museconfig.js" crc="310584261" ref="index:notre-entreprise:produits-barbecue:contact:technologie---innovation:briquettes:charbon-de-bois:mentions-légales:home:bbq--products:charcoal-briquettes:charcoal:our-company:contact-us:technology---innovation:grill-mixx-fr:grill-mixx-en"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:notre-entreprise:produits-barbecue:contact:technologie---innovation:briquettes:charbon-de-bois:mentions-légales:home:bbq--products:charcoal-briquettes:charcoal:our-company:contact-us:technology---innovation:grill-mixx-fr:grill-mixx-en"/>
+    <file name="webpro.js" crc="4059564322" ref="index:contact:charbon-de-bois:home:charcoal:contact-us"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:charbon-de-bois:home:charcoal"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:charbon-de-bois:home:charcoal"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:charbon-de-bois:home:charcoal"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:notre-entreprise:produits-barbecue:contact:technologie---innovation:briquettes:charbon-de-bois:mentions-légales:home:bbq--products:charcoal-briquettes:charcoal:our-company:contact-us:technology---innovation:grill-mixx-fr:grill-mixx-en"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:notre-entreprise:produits-barbecue:contact:technologie---innovation:briquettes:charbon-de-bois:mentions-légales:home:bbq--products:charcoal-briquettes:charcoal:our-company:contact-us:technology---innovation:grill-mixx-fr:grill-mixx-en"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:notre-entreprise:produits-barbecue:contact:technologie---innovation:briquettes:charbon-de-bois:mentions-légales:home:bbq--products:charcoal-briquettes:charcoal:our-company:contact-us:technology---innovation:grill-mixx-fr:grill-mixx-en"/>
+    <file name="require.js" crc="7928878" ref="index:notre-entreprise:produits-barbecue:contact:technologie---innovation:briquettes:charbon-de-bois:mentions-légales:home:bbq--products:charcoal-briquettes:charcoal:our-company:contact-us:technology---innovation:grill-mixx-fr:grill-mixx-en"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u571.php" crc="4031277133" ref="contact"/>
+    <file name="form-u9450.php" crc="62327344" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="bienvenue-favicon.ico" crc="216107642" ref="index"/>
+    <file name="carbo logo.png" crc="4001580017" seo="true" ref="index:notre-entreprise:produits-barbecue:contact:technologie---innovation:briquettes:charbon-de-bois:mentions-légales:home:bbq--products:charcoal-briquettes:charcoal:our-company:contact-us:technology---innovation:grill-mixx-fr:grill-mixx-en">
+      <caption webpage="notre-entreprise" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="technology---innovation" alt=""/>
+      <caption webpage="bbq--products" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="grill-mixx-en" alt=""/>
+      <caption webpage="produits-barbecue" alt=""/>
+      <caption webpage="charbon-de-bois" alt=""/>
+      <caption webpage="charcoal" alt=""/>
+      <caption webpage="briquettes" alt=""/>
+      <caption webpage="mentions-légales" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="grill-mixx-fr" alt=""/>
+      <caption webpage="our-company" alt=""/>
+      <caption webpage="technologie---innovation" alt=""/>
+      <caption webpage="charcoal-briquettes" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="facebook_logo_grey.jpg" crc="3789379995" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="facebook_logo.png" crc="4244743672" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="linkedin_logo_grey.png" crc="4088087300" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="linkedin_logo.png" crc="4177768739" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="twitter_logo_grey.jpg" crc="23909576" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="twitter_logo.jpg" crc="4216518799" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="2013_11_28_0516still001new.jpg" crc="4233483915" seo="true" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:charbon-de-bois:home:charcoal"/>
+    <file name="forest_panorama2.jpg" crc="4006410830" seo="true" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="carbonex-007199web.jpg" crc="57561850" seo="true" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="_w1a6179.jpg" crc="4123731691" seo="true" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="_w1a7744web.jpg" crc="23812299" seo="true" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="_w1a8345web2.jpg" crc="240572937" seo="true" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:charbon-de-bois:home:charcoal"/>
+    <file name="skærmbillede-4.jpg" crc="4197156761" seo="true" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="ovn-262x165_2 kopi.jpg" crc="478250926" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="ovn-262x165_2.jpg" crc="3797003856" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="carbonex-007044_web-262x165_2 kopi.jpg" crc="4150047793" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="carbonex-007044_web2-262x165_2-kopi.jpg" crc="4183954702" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="bpifrance_excellence_cmjn_fb.png" crc="58943140" seo="true" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="skærmbillede 2014-02-13 kl 102633-crop-u4702.jpg" crc="4274742838" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jean_q_2_4389.png" crc="3973043401" seo="true" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="skærmbillede 2014-02-13 kl 102633-crop-u4831.jpg" crc="4274742838" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pierre_qu_194336 copy.png" crc="3889700624" seo="true" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="skærmbillede 2014-02-13 kl 102633-crop-u4842.jpg" crc="4274742838" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phillippe_q_4430.png" crc="415038318" seo="true" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="btn_rcc_left.png" crc="3962047729" seo="true" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="btn_rcc_right.png" crc="3824674176" seo="true" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="_w1a7743_web_bg_ny.jpg" crc="3869607795" ref="index:home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="favicon.ico" crc="3995883248" ref="notre-entreprise"/>
+    <file name="_w1a9245.jpg" crc="382611258" seo="true" ref="notre-entreprise:our-company">
+      <caption webpage="notre-entreprise" alt=""/>
+      <caption webpage="our-company" alt=""/>
+    </file>
+    <file name="_w1a6337-copy.jpg" crc="167947716" seo="true" ref="produits-barbecue:bbq--products">
+      <caption webpage="bbq--products" alt=""/>
+      <caption webpage="produits-barbecue" alt=""/>
+    </file>
+    <file name="soler_grill_mixx_02.png" crc="4252787493" seo="true" ref="produits-barbecue:bbq--products">
+      <caption webpage="bbq--products" alt=""/>
+      <caption webpage="produits-barbecue" alt=""/>
+    </file>
+    <file name="soler_classic_charbon_de_bois_4_kg.png" crc="268987457" seo="true" ref="produits-barbecue:bbq--products">
+      <caption webpage="bbq--products" alt=""/>
+      <caption webpage="produits-barbecue" alt=""/>
+    </file>
+    <file name="soler_black_5kg-crop-u8720.png" crc="263853896" seo="true" ref="produits-barbecue">
+      <caption webpage="produits-barbecue" alt=""/>
+    </file>
+    <file name="aubois_bag 4kg.png" crc="3794150731" seo="true" ref="produits-barbecue:bbq--products">
+      <caption webpage="bbq--products" alt=""/>
+      <caption webpage="produits-barbecue" alt=""/>
+    </file>
+    <file name="470x300_w1a7514.jpg" crc="365873462" seo="true" ref="technologie---innovation:technology---innovation">
+      <caption webpage="technologie---innovation" alt=""/>
+      <caption webpage="technology---innovation" alt=""/>
+    </file>
+    <file name="ovn_470x300_w1a7537.jpg" crc="52594685" seo="true" ref="technologie---innovation:technology---innovation">
+      <caption webpage="technologie---innovation" alt=""/>
+      <caption webpage="technology---innovation" alt=""/>
+    </file>
+    <file name="web_470x300_w1a8349.jpg" crc="519303912" seo="true" ref="technologie---innovation:technology---innovation">
+      <caption webpage="technologie---innovation" alt=""/>
+      <caption webpage="technology---innovation" alt=""/>
+    </file>
+    <file name="470x300_w1a6255_ny.jpg" crc="4121536910" seo="true" ref="technologie---innovation:technology---innovation">
+      <caption webpage="technologie---innovation" alt=""/>
+      <caption webpage="technology---innovation" alt=""/>
+    </file>
+    <file name="soler_black_5kg_b_l.png" crc="466661220" seo="true" ref="briquettes:charcoal-briquettes">
+      <caption webpage="charcoal-briquettes" alt=""/>
+      <caption webpage="briquettes" alt=""/>
+    </file>
+    <file name="zero_logo.png" crc="3761508157" seo="true" ref="briquettes:charcoal-briquettes">
+      <caption webpage="charcoal-briquettes" alt=""/>
+      <caption webpage="briquettes" alt=""/>
+    </file>
+    <file name="briquette_vs_-charbon_de_bois_web.jpg" crc="506457363" seo="true" ref="briquettes:charcoal-briquettes">
+      <caption webpage="charcoal-briquettes" alt=""/>
+      <caption webpage="briquettes" alt=""/>
+    </file>
+    <file name="pefc-logo_new15.png" crc="74579546" seo="true" ref="charbon-de-bois:charcoal:grill-mixx-fr:grill-mixx-en">
+      <caption webpage="charcoal" alt=""/>
+      <caption webpage="charcoal" alt=""/>
+      <caption webpage="grill-mixx-fr" alt=""/>
+      <caption webpage="grill-mixx-en" alt=""/>
+      <caption webpage="charbon-de-bois" alt=""/>
+      <caption webpage="charbon-de-bois" alt=""/>
+    </file>
+    <file name="carbonex20160411_7507_1_m_kul.png" crc="134888768" seo="true" ref="charbon-de-bois:charcoal">
+      <caption webpage="charcoal" alt=""/>
+      <caption webpage="charbon-de-bois" alt=""/>
+    </file>
+    <file name="onf logo-1.png" crc="90366841" seo="true" ref="charbon-de-bois:charcoal">
+      <caption webpage="charcoal" alt=""/>
+      <caption webpage="charbon-de-bois" alt=""/>
+    </file>
+    <file name="aubois_bag 4kg_m_kul copy.png" crc="124856276" seo="true" ref="charbon-de-bois:charcoal">
+      <caption webpage="charcoal" alt=""/>
+      <caption webpage="charbon-de-bois" alt=""/>
+    </file>
+    <file name="kul_w1a7743.jpg" crc="4202162700" seo="true" ref="charbon-de-bois:charcoal">
+      <caption webpage="charcoal" alt=""/>
+      <caption webpage="charbon-de-bois" alt=""/>
+    </file>
+    <file name="classeur_ny.jpg" crc="19979921" seo="true" ref="charbon-de-bois:charcoal">
+      <caption webpage="charcoal" alt=""/>
+      <caption webpage="charbon-de-bois" alt=""/>
+    </file>
+    <file name="classeur_new.jpg" crc="459960177" ref="charbon-de-bois:charcoal">
+      <caption webpage="charcoal" alt=""/>
+      <caption webpage="charcoal" alt=""/>
+      <caption webpage="charbon-de-bois" alt=""/>
+      <caption webpage="charbon-de-bois" alt=""/>
+    </file>
+    <file name="classeur_fr_thumb.jpg" crc="4224566401" seo="true" ref="charbon-de-bois:charcoal">
+      <caption webpage="charcoal" alt=""/>
+      <caption webpage="charbon-de-bois" alt=""/>
+    </file>
+    <file name="wood_w1a8342.jpg" crc="454608449" seo="true" ref="charbon-de-bois:charcoal">
+      <caption webpage="charcoal" alt=""/>
+      <caption webpage="charbon-de-bois" alt=""/>
+    </file>
+    <file name="skærmbillede 2014-02-13 kl 102633-crop-u8344.jpg" crc="4274742838" seo="true" ref="charbon-de-bois">
+      <caption webpage="charbon-de-bois" alt=""/>
+    </file>
+    <file name="logo onf energie bois hd.png" crc="450984475" seo="true" ref="charbon-de-bois:charcoal">
+      <caption webpage="charcoal" alt=""/>
+      <caption webpage="charbon-de-bois" alt=""/>
+    </file>
+    <file name="xavier_quotes.png" crc="349572138" seo="true" ref="charbon-de-bois:charcoal">
+      <caption webpage="charcoal" alt=""/>
+      <caption webpage="charbon-de-bois" alt=""/>
+    </file>
+    <file name="home-favicon.ico" crc="356690093" ref="home"/>
+    <file name="skærmbillede 2014-02-13 kl 102633-crop-u8998.jpg" crc="4274742838" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="skærmbillede 2014-02-13 kl 102633-crop-u9002.jpg" crc="4274742838" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="skærmbillede 2014-02-13 kl 102633-crop-u9012.jpg" crc="4274742838" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="soler_black_5kg-crop-u11770.png" crc="263853896" seo="true" ref="bbq--products">
+      <caption webpage="bbq--products" alt=""/>
+    </file>
+    <file name="skærmbillede 2014-02-13 kl 102633-crop-u9282.jpg" crc="4274742838" seo="true" ref="charcoal">
+      <caption webpage="charcoal" alt=""/>
+    </file>
+    <file name="zero-1.svg" crc="3921066165" seo="true" ref="grill-mixx-fr:grill-mixx-en">
+      <caption webpage="grill-mixx-fr" alt=""/>
+      <caption webpage="grill-mixx-en" alt=""/>
+    </file>
+    <file name="zero-1_poster_.png" crc="401688274" ref="grill-mixx-fr"/>
+    <file name="soler_grill_mixx_01.png" crc="521851530" seo="true" ref="grill-mixx-fr:grill-mixx-en">
+      <caption webpage="grill-mixx-fr" alt=""/>
+      <caption webpage="grill-mixx-en" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3934488218" seo="true" mt="1532705740534" redirect="true"/>
+  <file name="notre-entreprise.html" crc="21780062" seo="true" mt="1532698671999" redirect="true"/>
+  <file name="produits-barbecue.html" crc="4022395039" seo="true" mt="1532700877554" redirect="true"/>
+  <file name="contact.html" crc="4197721751" seo="true" mt="1532698671999" redirect="true"/>
+  <file name="technologie---innovation.html" crc="101896156" seo="true" mt="1532698671999" redirect="true"/>
+  <file name="briquettes.html" crc="46617210" seo="true" mt="1532698671999" redirect="true"/>
+  <file name="charbon-de-bois.html" crc="4276032519" seo="true" mt="1532698671999" redirect="true"/>
+  <file name="mentions-légales.html" crc="342213333" seo="true" mt="1532698671999" redirect="true"/>
+  <file name="home.html" crc="3961803146" seo="true" mt="1532705713131" redirect="true"/>
+  <file name="bbq--products.html" crc="3882776843" seo="true" mt="1532700877362" redirect="true"/>
+  <file name="charcoal-briquettes.html" crc="92918054" seo="true" mt="1516703305405" redirect="true"/>
+  <file name="charcoal.html" crc="3933725558" seo="true" mt="1516703305405" redirect="true"/>
+  <file name="our-company.html" crc="4077407835" seo="true" mt="1516703305405" redirect="true"/>
+  <file name="contact-us.html" crc="148366273" seo="true" mt="1516703305405" redirect="true"/>
+  <file name="technology---innovation.html" crc="4144140849" seo="true" mt="1516704333732" redirect="true"/>
+  <file name="grill-mixx-fr.html" crc="3781977780" seo="true" mt="1532698671999" redirect="true"/>
+  <file name="grill-mixx-en.html" crc="4093055970" seo="true" mt="1516703305405" redirect="true"/>
+</manifest>
