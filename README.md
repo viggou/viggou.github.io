@@ -1,3 +1,1 @@
-Just my website.
-
-**HEAVILY OUTDATED**
+Just my website and Cydia repo.
