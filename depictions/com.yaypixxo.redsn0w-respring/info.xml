@@ -1,0 +1,26 @@
+<package>
+	<id>com.yaypixxo.redsn0w-respring</id>
+	<name>Redsn0w Respring Logo</name>
+	<version>2.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Redsn0w pinapple boot logo for resprings!</shortDescription>
+	<descriptionlist>
+		<description>This is a the redsn0w pinapple boot logo as a respring logo. Apply with Anemone. iOS =>10.0 requires MakeRespringsGreatAgain.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>iPhone SE</description>
+			<image>screenshot.jpg</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
