@@ -5,6 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
+			<maxiOS>10.3.3</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -12,7 +13,7 @@
 	</dependencies>
 	<shortDescription>Remove the battery pop-up on the LockScreen!</shortDescription>
 	<descriptionlist>
-		<description>NOTE: This is a debug build and may not work.</description>
+		<description>NOTE: This does not currently work on iOS 11.</description>
 		<description>Removes the giant battery that pops up when you begin charging your device. </description>
 	</descriptionlist>
 	<changelog>
