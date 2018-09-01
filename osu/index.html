@@ -1,18 +1,73 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>osu! skins</title>
+	<meta charset="utf-8">
+	<meta name="viewport" id="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<title>osu!</title>
+	<link rel="stylesheet" type="text/css" href="/assets/style.css">
+	<link href='https://fonts.googleapis.com/css?family=Ubuntu:300' rel='stylesheet' type='text/css'>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+	<script>
+  		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	    ga('create', 'UA-84098912-1', 'auto');
+	    ga('send', 'pageview'); 
+	</script>
+	<link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
 </head>
 <body>
-	<h1>Welcome (to osu!)! This is page is a work in progress, but here is my osu! skins.</h1>
-	<h3><a href="/osu/-+Yayual+-.osk">Download current version (-+Yayual+-.osk)</a><span>&nbsp;&nbsp;</span><a href="/osu/-+Yayual+-.zip">Download .zip</a></h3>
-	<br>
-	<br>
-	<a href="/osu/Pix.osk">Download old version (Pix.osk)</a><span>&nbsp;&nbsp;</span><a href="/osu/Pix.zip">Download .zip</a>
+	<div id="bg-img" class="bg-img blur" style="display: none;"></div>
+	<div id="bg-overlay" class="bg-img overlay" style="display: none;"></div>
+	<div style="width: 100%; height: 100%;display: table;text-align: center;">
+		<div class="content">
+			<img src="/osu/osu!logo.png" id="logo" width="200">
+			<br>
+			<a href="https://osu.ppy.sh/users/9268665">My profile</a>
+			<h1 class="ting">osu! skins <span style="font-size: 26px;">❤️</span></h1>
+			<span>
+				<h3><a href="/osu/-+Yayual+-.osk">Download current version (-+Yayual+-.osk)</a><span>&nbsp;&nbsp;</span><a href="/osu/-+Yayual+-.zip">Download .zip</a></h3>
+				<br>
+				<br>
+				<a href="/osu/Pix.osk">Download old version (Pix.osk)</a><span>&nbsp;&nbsp;</span><a href="/osu/Pix.zip">Download .zip</a>
+			</span>
+			<span class="links">
+				<a href="/" id="">Back</a>
+			</span>
+		</div>
+	</div>
+	</div>
+	<script>
+		function switchBG(urlThing) {
+			document.getElementById("bg-img").style.display="block";
+			document.getElementById("bg-img").style.backgroundImage="url(" + urlThing + ")";
+		}
 
-	<br>
-	<br>
-	<br>
-	<h2><a href="/">Back to the main page!</a></h2>
+		var n = Math.floor((Math.random() * 6) + 1);
 
+		if (n == 1) {
+			switchBG('/assets/bgs/back1.jpg');
+		}
+		else if (n == 2) {
+			switchBG('/assets/bgs/back2.jpg');
+		}
+		else if (n == 3) {
+			switchBG('/assets/bgs/back3.png')
+		}
+		else if (n == 4) {
+			switchBG('/assets/bgs/back4.jpg')
+		}
+		else if (n == 5) {
+			switchBG('/assets/bgs/back5.jpg')
+		}
+		else if (n == 6) {
+			switchBG('/assets/bgs/back6.png')
+		}
+	</script>
 </body>
+</html>
