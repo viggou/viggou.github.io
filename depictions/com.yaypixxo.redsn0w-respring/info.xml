@@ -1,7 +1,7 @@
 <package>
 	<id>com.yaypixxo.redsn0w-respring</id>
 	<name>Redsn0w Respring Logo</name>
-	<version>2.0.0-1</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -12,15 +12,24 @@
 	</dependencies>
 	<shortDescription>Redsn0w pinapple boot logo for resprings!</shortDescription>
 	<descriptionlist>
-		<description>This is a the redsn0w pinapple boot logo as a respring logo. Apply with Anemone. iOS =>10.0 requires MakeRespringsGreatAgain.</description>
+		<description>This is a the redsn0w pinapple boot logo as a respring logo. Apply with Anemone. iOS >=10.0 requires MakeRespringsGreatAgain.</description>
+		<description>The following respring logos are included:<br><br>- Installing logo (Running Pineapple)<br>- Pwnapple Color (the classic boot logo)<br>- Pwnapple (the silver version of Pwnapple Color)
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>iPhone SE</description>
+			<description>Pwnapple Color</description>
 			<image>screenshot.jpg</image>
-		</screenshot>			
+		</screenshot>
+		<screenshot>
+			<description>Pwnapple</description>
+			<image>pwnapple.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Running Pineapple</description>
+			<image>runningpineapple.jpg</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Release</change>
 	</changelog>
 </package>
