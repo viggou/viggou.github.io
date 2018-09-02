@@ -1,0 +1,21 @@
+<package>
+	<id>com.yaypixxo.cnon</id>
+	<name>CustomNoOlderNotifications</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Replace the "No Older Notifications" text with a custom one!</shortDescription>
+	<descriptionlist>
+		<description>Go to Settings > NoOlderNotifications and type in your custom text in the "Text:" field. A respring is required for changes to take effect.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+</package>
