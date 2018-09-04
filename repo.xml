@@ -6,9 +6,9 @@
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>The depiction template I use.</name>
-			<url>https://github.com/supermamon/Reposi3/</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<name>See my open-source projects on GitHub!.</name>
+			<url>https://github.com/viggou</url>
+			<iconclass>fa fa-console</iconclass>
 		</link>
 	</footerlinks>
 </repo>
