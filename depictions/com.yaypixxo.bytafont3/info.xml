@@ -14,6 +14,7 @@
 	</dependencies>
 	<shortDescription>BytaFont 3 lets you apply fonts to your iDevice in a few taps.</shortDescription>
 	<descriptionlist>
+		<description>DISCLAIMER: I am not the creator of BytaFont. I'm simply hosting it because it's apparently only available on pirate repos.</description>
 		<description><![CDATA[1. Install iFonts from the AppStore (https://itunes.apple.com/app/ifont-install-any-font/id1173222289)<br/>2. Download the font you want<br/>3. Go to tweakmode in BytaFont and apply<br/>4. Respring.]]></description>
 	</descriptionlist>
 	<changelog>
