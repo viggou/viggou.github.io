@@ -1,0 +1,21 @@
+<package>
+	<id>ultrasn0w</id>
+	<name>ultrasn0w</name>
+	<version>1.2.8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>4.3.1</miniOS>
+			<maxiOS>6.1.6</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>iPhone Dev Team's iPhone 4, 3G and 3GS software unlock, now with added PwnApple.</shortDescription>
+	<descriptionlist>
+		<description>Compatible with iPhone 4 baseband 01.59.00 and iPhone 3G/3GS basebands 04.26.08, 05.11.07, 05.12.01, 05.13.04 and 06.15.00! Thanks to @sherif_hashim and @Oranav for contributing baseband crashes.</description>
+	</descriptionlist>
+	<changelog>
+		<change>iOS 6.1.x compatibility</change>
+	</changelog>
+</package>
