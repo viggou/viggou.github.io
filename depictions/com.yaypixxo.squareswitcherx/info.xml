@@ -11,9 +11,10 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This tweak reduces the corner radius on the app switcher cards on iPhone X.</shortDescription>
+	<shortDescription>it makes them look like non iPhone X cards things</shortDescription>
 	<descriptionlist>
-		<description>it makes them look like non iPhone X cards things</description>
+		<description>For iPhone X(S, S Max, R) only!
+		<description>This tweak reduces the corner radius on the app switcher cards on iPhone X.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
