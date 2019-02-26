@@ -40,11 +40,16 @@
 			<span style="color: white;">This is also my apt repository for jailbroken iOS devices. <a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://yaypixxo.com/" style="text-decoration: underline; background-color: black;">Click here to add it to Cydia</a></span>
 			<br>
 			<br>
+			<span>My packages (not including bytafont and ultrasn0w):<br>
+			<a href="/depictions?p=com.yaypixxo.cnon" id="osu">CustomNoOlderNotifications</a><br>
+			<a href="/depictions?p=com.yaypixxo.squareswitcherx" id="osu">SquareSwitcherX</a><br>
+			<a href="/depictions?p=com.yaypixxo.nolschargingbattery" id="osu">NoLSChargingBattery (currently broken)</a><br>
+			<a href="/depictions?p=com.yaypixxo.redsn0w-respring" id="osu">Redsn0w Respring Logo</a>
+			</span>
 			<br>
 			<br>
 			<span style="color: lightgray;">Copyright &copy; Viggo Lekdorf - viggo@lekdorf.com</span>
 		</div>
-	</div>
 	</div>
 	<script>
 		function switchBG(urlThing) {
@@ -54,7 +59,10 @@
 
 		var n = Math.floor((Math.random() * 6) + 1);
 
-		if (n == 1) {
+		// finally took the time to convert from png to jpg. it's so much cleaner now.
+		switchBG('assets/bgs/back' + n + '.jpg');
+
+		/*if (n == 1) {
 			switchBG('assets/bgs/back1.jpg');
 		}
 		else if (n == 2) {
@@ -71,7 +79,7 @@
 		}
 		else if (n == 6) {
 			switchBG('assets/bgs/back6.png')
-		}
+		}*/
 	</script>
 </body>
 </html>
