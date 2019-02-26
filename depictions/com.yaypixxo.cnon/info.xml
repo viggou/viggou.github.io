@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
-			<maxiOS>11.4</maxiOS>
+			<maxiOS>11.5</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -13,6 +13,7 @@
 	</dependencies>
 	<shortDescription>Replace the "No Older Notifications" text with a custom one!</shortDescription>
 	<descriptionlist>
+		<description>Not compatible with iOS 12</description>
 		<description>Go to Settings > NoOlderNotifications and type in your custom text in the "Text:" field. A respring is required for changes to take effect.</description>
 	</descriptionlist>
 	<changelog>

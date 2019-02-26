@@ -1,0 +1,35 @@
+<package>
+	<id>com.yaypixxo.squareswitcherx</id>
+	<name>SquareSwitcherX</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>12.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This tweak reduces the corner radius on the app switcher cards on iPhone X.</shortDescription>
+	<descriptionlist>
+		<description>it makes them look like non iPhone X cards things</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1</description>
+			<image>screenshot1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Screenshot 2</description>
+			<image>screenshot2.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Screenshot 3</description>
+			<image>screenshot3.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
