@@ -13,8 +13,12 @@
 	</dependencies>
 	<shortDescription>it makes them look like non iPhone X cards things</shortDescription>
 	<descriptionlist>
-		<description>For iPhone X(S, S Max, R) only!</description>
-		<description>This tweak reduces the corner radius on the app switcher cards on iPhone X.</description>
+		<description><![CDATA[
+		For iPhone X(s, s Max, r) only!<br/> 
+		Reduce the corner radius of the app switcher cards on iPhone X.<br/>
+		No options to configure.
+  		]]></description>
+		<description>This package is open-source!</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
