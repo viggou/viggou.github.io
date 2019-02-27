@@ -10,6 +10,7 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
 	</dependencies>
 	<shortDescription>it makes them look like non iPhone X cards things</shortDescription>
 	<descriptionlist>
