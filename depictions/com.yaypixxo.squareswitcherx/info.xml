@@ -35,6 +35,6 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Added preference bundle</change>
 	</changelog>
 </package>
