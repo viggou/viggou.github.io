@@ -1,0 +1,17 @@
+<changelog>
+	<changes>
+		<version>1.2</version>
+		<change>Hotfix</change>
+		<change>Fixed Pwnapple logo not working</change>
+	</changes>
+	<changes>
+		<version>1.1</version>
+		<change>Added 2 new boot logos</change>
+		<change>Pwnapple</change>
+		<change>Running Pineapple</change>
+	</changes>
+	<changes>
+		<version>1.0</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>

@@ -1,0 +1,23 @@
+<package>
+	<id>com.yaypixxo.cnon</id>
+	<name>BytaFont 3 (iOS 11)</name>
+	<version>3.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>unzip</package>
+	</dependencies>
+	<shortDescription>BytaFont 3 lets you apply fonts to your iDevice in a few taps.</shortDescription>
+	<descriptionlist>
+		<description>DISCLAIMER: I am not the creator of BytaFont. I'm simply hosting it because it's apparently only available on pirate repos.</description>
+		<description><![CDATA[1. Install iFonts from the AppStore (<a href="https://itunes.apple.com/app/ifont-install-any-font/id1173222289">https://itunes.apple.com/app/ifont-install-any-font/id1173222289</a>)<br/>2. Download the font you want, press &quot;Files&quot; and install<br/>3. Go to tweakmode in BytaFont and apply<br/>4. Respring.]]></description>
+	</descriptionlist>
+	<changelog>
+		<change>iOS 11</change>
+	</changelog>
+</package>

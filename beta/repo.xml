@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter &lt;3</name>
+			<url>https://twitter.com/yaypixxo</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>See my open-source projects on GitHub.</name>
+			<url>https://github.com/viggou</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</footerlinks>
+</repo>

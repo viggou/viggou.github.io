@@ -1,0 +1,23 @@
+<package>
+	<id>com.bytafont.bytafonttm</id>
+	<name>BytaFont 3 Tweak Mode</name>
+	<version>3.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.5</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>com.bytafont.bytafont3</package>
+	</dependencies>
+	<shortDescription>BytaFont 3 lets you apply fonts to your iDevice in a few taps.</shortDescription>
+	<descriptionlist>
+		<description>DISCLAIMER: I am not the creator of BytaFont. I'm simply hosting it because it's apparently only available on pirate repos.</description>
+		<description><![CDATA[Tweak mode lets you skin fonts without changing system files.]]></description>
+	</descriptionlist>
+	<changelog>
+		<change>Split BytaFont3 and BytaFont3 Tweak Mode</change>
+	</changelog>
+</package>
