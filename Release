@@ -1,7 +1,7 @@
-Origin: Pix's repo
-Label: Pix's repo
+Origin: Pix' Repo
+Label: Pix' Repo
 Suite: stable
-Version: 1.2
+Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
