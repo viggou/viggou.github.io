@@ -1,22 +1,23 @@
 <package>
 	<id>com.yaypixxo.cnon</id>
 	<name>CustomNoOlderNotifications</name>
-	<version>1.0.2</version>
+	<version>2.0.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
-			<maxiOS>11.5</maxiOS>
+			<maxiOS>12.2</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
 	</dependencies>
-	<shortDescription>Replace the "No Older Notifications" text with a custom one!</shortDescription>
+	<shortDescription>Replace the "No Older Notifications" label with a custom one!</shortDescription>
 	<descriptionlist>
-		<description>Not compatible with iOS 12</description>
-		<description>Go to Settings > NoOlderNotifications and type in your custom text in the "Text:" field. A respring is required for changes to take effect.</description>
+		<description>Supports iOS 11 and 12!</description>
+		<description>Replace the "No Older Notifications" label with a custom one!</description>
 	</descriptionlist>
 	<changelog>
-		<change>Fix respring bug</change>
+		<change>Redesigned preference bundle and iOS 12 support!</change>
 	</changelog>
 </package>
