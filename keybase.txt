@@ -1,0 +1,93 @@
+==================================================================
+
+https://keybase.io/yaypixxo
+
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://yaypixxo.com
+
+  * I am yaypixxo (https://keybase.io/yaypixxo) on keybase.
+
+  * I have a public key ASCWnvF8v1GHaaS8wAEO8xZRT-QVpKyJaK2DouUp3CFqEwo
+
+To do so, I am signing this object:
+
+{
+
+  "body": {
+
+    "key": {
+
+      "eldest_kid": "0120969ef17cbf518769a4bcc0010ef316514fe415a4ac8968ad83a2e529dc216a130a",
+
+      "host": "keybase.io",
+
+      "kid": "0120969ef17cbf518769a4bcc0010ef316514fe415a4ac8968ad83a2e529dc216a130a",
+
+      "uid": "8f2f3ab9f88a6b3d108cd38dc3076e19",
+
+      "username": "yaypixxo"
+
+    },
+
+    "merkle_root": {
+
+      "ctime": 1554274876,
+
+      "hash": "ab23cceef1a22774f51d2699bd55d82f71fb4a34e046954e1bdf567adc4d2bcbf75bac3f363ee10d53a1a955d8f6cc8c23e000ff130d256595790c85db9bc052",
+
+      "hash_meta": "cb24da384ac30358daf185652f87624f334effad8c3db02df24760fb5eee99eb",
+
+      "seqno": 5085074
+
+    },
+
+    "service": {
+
+      "entropy": "BZrtyOBp1Zvke/RMKCCnSy+h",
+
+      "hostname": "yaypixxo.com",
+
+      "protocol": "http:"
+
+    },
+
+    "type": "web_service_binding",
+
+    "version": 2
+
+  },
+
+  "client": {
+
+    "name": "keybase.io go client",
+
+    "version": "3.1.2"
+
+  },
+
+  "ctime": 1554274906,
+
+  "expire_in": 504576000,
+
+  "prev": "674500422129d708570f42cf07b9b9cf402176ae733f06512c3efe59a2d30721",
+
+  "seqno": 7,
+
+  "tag": "signature"
+
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglp7xfL9Rh2mkvMABDvMWUU/kFaSsiWitg6LlKdwhahMKp3BheWxvYWTESpcCB8QgZ0UAQiEp1whXD0LPB7m5z0Ahdq5zPwZRLD7+WaLTByHEIFi1bV1DOQwY7ajdaRpFWmiiXLBVo6s3arVgjrPzRuVIAgHCo3NpZ8RAEvAHuv7Y243l/whiYaIfs+KzlunJZ/OZgEed22YEY9S7E3WugDIfLV1GkW2Q2ri4heUobRobw1IaDnqVejShDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMDinhyIU6VejyzPX3yL7rLO/T7SHgzTVmBE9YXflMWAo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yaypixxo
+
+==================================================================
