@@ -1,7 +1,7 @@
 <package>
 	<id>com.yaypixxo.squareswitcherx</id>
 	<name>SquareSwitcherX</name>
-	<version>1.1.1</version>
+	<version>1.1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -36,6 +36,6 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Hot fix</change>
+		<change>Support for arm64e (thx @NepetaDev)</change>
 	</changelog>
 </package>

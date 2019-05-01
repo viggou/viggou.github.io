@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.1</version>
+		<change>Support for arm64e (thx @NepetaDev)</change>
+	</changes>
+	<changes>
 		<version>1.0.0</version>
 		<change>Initial release</change>
 	</changes>
